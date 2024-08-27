@@ -28,9 +28,9 @@
     height: auto;
     width: 40%;
     background-image: url(./copy.png);
-   background-position:center ;
-   background-size: cover;
-   background-repeat: no-repeat;
+    background-position:center ;
+    background-size: cover;
+    background-repeat: no-repeat;
 
 }
 .left-part img{
@@ -73,7 +73,6 @@
     justify-content: start;
     align-items: center;
     padding-top: 100px;
-   
 }
 .left-part a{
     color: red;
@@ -94,7 +93,7 @@
         height: 100vh;
     }
     .form-part span{
-       font-size: 10px;
+        font-size: 10px;
     }
     .last-part{
         width: 40%;
